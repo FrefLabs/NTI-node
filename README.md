@@ -12,7 +12,7 @@
 
 ---
 
-## El sistema N.T.I. (NeuroFref Trading Intelligence) es una plataforma que entrena redes neuronales para predecir el precio de cierre de acciones del mercado bursátil. El sistema completo tiene cinco componentes:
+El sistema N.T.I. (NeuroFref Trading Intelligence) es una plataforma que entrena redes neuronales para predecir el precio de cierre de acciones del mercado bursátil. El sistema completo tiene cinco componentes:
 
 - **NTI-client** - interfaz de escritorio para el usuario
 - **NTI-server** - servidor REST central que coordina todo
