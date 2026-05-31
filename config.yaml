@@ -1,0 +1,10 @@
+gateway:
+  url: "ws://localhost:8000/ws/node"  # Change to your Gateway URL
+  reconnect_interval: 5  # seconds
+  max_reconnect_attempts: 0  # 0 = infinite
+
+execution:
+  timeout: 120  # seconds
+
+node:
+  hostname: null  # Auto-detect if null
